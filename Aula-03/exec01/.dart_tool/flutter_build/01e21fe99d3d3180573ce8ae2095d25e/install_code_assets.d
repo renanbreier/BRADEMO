@@ -1,1 +1,0 @@
- C:\\Users\\renan\\Documents\\Faculdade\\5\ Semestre\\BRADEMO\\Aula-03\\exec01\\.dart_tool\\flutter_build\\01e21fe99d3d3180573ce8ae2095d25e\\native_assets.json: 
